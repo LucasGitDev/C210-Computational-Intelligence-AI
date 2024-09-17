@@ -12,6 +12,7 @@ jinja2 = "*"
 scikit-learn = "*"
 lightgbm = "*"
 xgboost = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
