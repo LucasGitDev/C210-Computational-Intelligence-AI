@@ -13,6 +13,8 @@ scikit-learn = "*"
 lightgbm = "*"
 xgboost = "*"
 numpy = "*"
+scikit-fuzzy = "*"
+networkx = "*"
 
 [dev-packages]
 ipykernel = "*"
